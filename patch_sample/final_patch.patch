@@ -1,0 +1,16 @@
+From 006a8ef9ebe280ce1fdeb8d76a38d1fcec59ebdc Mon Sep 17 00:00:00 2001
+From: Christoph <christoph.gnip@gmail.com>
+Date: Thu, 1 Mar 2018 15:41:18 +0100
+Subject: [PATCH 1/1] :sparkles: Add the Sample File
+
+---
+diff --git a/patch_sample/take_this.txt b/patch_sample/take_this.txt
+new file mode 100644
+index 0000000..047c439
+--- /dev/null
++++ b/patch_sample/take_this.txt
+@@ -0,0 +1 @@
++Test for master
+--
+2.16.1
+
